@@ -13,6 +13,9 @@ dependencies:
 - name: gotest2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: javascript
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: node-quest
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
